@@ -14,6 +14,15 @@ This repository contains a working demo of an LLM-powered agent that interacts w
 - Thought → Action → Observation logic
 - Refine step to turn raw tool outputs into natural language
 
+  ### 📊 Veri Seti
+
+Bu projede kullanılan örnek çalışan veritabanı, Bytebase ekibi tarafından sağlanan açık kaynaklı bir dataset'ten alınmıştır:  
+🔗 https://github.com/bytebase/employee-sample-database  
+Kullanılan dosya: [`employee.db`](https://github.com/bytebase/employee-sample-database/blob/main/sqlite/dataset_small/employee.db)
+
+Telif hakkı ve lisans detayları için ilgili repoya göz atabilirsiniz.
+
+
 ## Setup
 
 ```bash
