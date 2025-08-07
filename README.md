@@ -28,6 +28,5 @@ python mcp_server.py
 ## Project Structure
 
 - `mcp_server.py`: MCP-compatible tool server
-- `agentmanuel.py`: Agent script using LLM + tool call logic
-- `tools/`: Tool implementations (optional)
+- `agent.py`: Agent script using LLM + tool call logic
 
